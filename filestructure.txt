@@ -1,0 +1,29 @@
+C:\Users\tekaccount\Capstone\Capstone Presentation.pptx
+C:\Users\tekaccount\Capstone\Capstone tasks.xlsx
+C:\Users\tekaccount\Capstone\clusters
+C:\Users\tekaccount\Capstone\docker-compose.yml
+C:\Users\tekaccount\Capstone\filestructure.txt
+C:\Users\tekaccount\Capstone\kustomize
+C:\Users\tekaccount\Capstone\README.md
+C:\Users\tekaccount\Capstone\clusters\mycluster
+C:\Users\tekaccount\Capstone\clusters\mycluster\flux-system
+C:\Users\tekaccount\Capstone\clusters\mycluster\flux-system\gotk-components.yaml
+C:\Users\tekaccount\Capstone\clusters\mycluster\flux-system\gotk-sync.yaml
+C:\Users\tekaccount\Capstone\clusters\mycluster\flux-system\kustomization.yaml
+C:\Users\tekaccount\Capstone\kustomize\base
+C:\Users\tekaccount\Capstone\kustomize\flux
+C:\Users\tekaccount\Capstone\kustomize\base\backend
+C:\Users\tekaccount\Capstone\kustomize\base\database
+C:\Users\tekaccount\Capstone\kustomize\base\frontend
+C:\Users\tekaccount\Capstone\kustomize\base\ingress
+C:\Users\tekaccount\Capstone\kustomize\base\kustomization.yaml
+C:\Users\tekaccount\Capstone\kustomize\base\backend\express-server.yaml
+C:\Users\tekaccount\Capstone\kustomize\base\backend\flask-api.yaml
+C:\Users\tekaccount\Capstone\kustomize\base\backend\kustomization.yaml
+C:\Users\tekaccount\Capstone\kustomize\base\database\kustomization.yaml
+C:\Users\tekaccount\Capstone\kustomize\base\database\sqlite.yaml
+C:\Users\tekaccount\Capstone\kustomize\base\frontend\angular-app.yaml
+C:\Users\tekaccount\Capstone\kustomize\base\frontend\kustomization.yaml
+C:\Users\tekaccount\Capstone\kustomize\base\ingress\ingress.yaml
+C:\Users\tekaccount\Capstone\kustomize\base\ingress\kustomization.yaml
+C:\Users\tekaccount\Capstone\kustomize\flux\flux-config.yaml
