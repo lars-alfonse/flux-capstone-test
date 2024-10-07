@@ -1,0 +1,15 @@
+apiVersion: fluxcd.io/v1
+kind: Flux
+metadata:
+  name: capstone-flux
+  namespace: capstone-flux
+spec:
+  git:
+    url: https://github.com/lars-alfonse/flux-capstone-test
+    branch: main
+    secretRef:
+      name: flux-git-deploy
+  sync:
+    intreval: 1m
+  manifests:
+    path: ../base
