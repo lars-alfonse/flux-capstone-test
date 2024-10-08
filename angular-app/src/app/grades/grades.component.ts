@@ -17,7 +17,7 @@ export class GradesComponent implements OnInit {
   constructor(private apiService: ApiService) {}
 
   ngOnInit(): void {
-    console.log('helloworld')
+    console.log('helloworldtest')
     this.getAllGrades();
   }
 
