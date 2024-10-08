@@ -15,7 +15,7 @@ images:
   newTag: latest
 - name: optum-azure-capstone-angular-app
   newName: capstonenrwcregistry.azurecr.io/optum-azure-capstone-angular-app
-  newTag: latest
+  newTag: v1
 - name: sqlite-db
   newName: capstonenrwcregistry.azurecr.io/sqlite-db
   newTag: latest
