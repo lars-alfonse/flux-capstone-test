@@ -13,11 +13,11 @@ images:
 - name: optum-azure-capstone-flask-api
   newName: capstonenrwcregistry.azurecr.io/optum-azure-capstone-flask-api
   newTag: latest
-- name: sqlite-db
-  newName: capstonenrwcregistry.azurecr.io/sqlite-db
-  newTag: latest
 - name: optum-azure-capstone-angular-app
   newName: capstonenrwcregistry.azurecr.io/optum-azure-capstone-angular-app
+  newTag: latest
+- name: sqlite-db
+  newName: capstonenrwcregistry.azurecr.io/sqlite-db
   newTag: latest
 
 apiVersion: kustomize.config.k8s.io/v1beta1
