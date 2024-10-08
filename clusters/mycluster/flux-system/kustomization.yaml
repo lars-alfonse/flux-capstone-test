@@ -4,17 +4,4 @@ namespace: default
 resources:
   - gotk-components.yaml
   - gotk-sync.yaml
-  - frontend/
-  - backend/
-  - database/
-  - ingress/
-
-images:
-- name: capstonenrwcregistry.azurecr.io/optum-azure-capstone-express-server
-  newTag: v4
-- name: capstonenrwcregistry.azurecr.io/optum-azure-capstone-flask-api
-  newTag: v4
-- name: capstonenrwcregistry.azurecr.io/sqlite-db
-  newTag: v4
-- name: capstonenrwcregistry.azurecr.io/optum-azure-capstone-angular-app
-  newTag: v4
+  - ../../../kustomize/base
